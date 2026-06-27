@@ -13,37 +13,20 @@ complete, correct, and auditable**, and adds an automated harness that scores
 and gates every change before it reaches production.
 
 ## Architecture
-Customer Query
 
-│
-
-▼
-
-RAG Pipeline
-
-├──► Vector DB (KB Articles)   — ChromaDB (semantic search)
-
-├──► Vector DB (Tickets)       — ChromaDB (semantic search)
-
-└──► SQL DB (Product SKU)      — SQLite   (exact lookup)
-
-│
-
-▼
-
-Context Assembly (rank + format for prompt)
-
-│
-
-▼
-
-LLM Generation (Ollama llama3 — local, free, no API key)
-
-│
-
-▼
-
-Evaluation Harness (Retrieval Metrics + LLM-as-Judge) ──► CI Quality Gate
+    Customer Query
+       │
+       ▼
+    RAG Pipeline
+       ├──► Vector DB (KB Articles)   — ChromaDB
+       ├──► Vector DB (Tickets)       — ChromaDB  
+       └──► SQL DB (Product SKU)      — SQLite
+       │
+       ▼
+    LLM Generation (Ollama llama3)
+       │
+       ▼
+    Evaluation Harness ──► CI Quality Gate
 
 
 ## Tech Stack
