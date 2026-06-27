@@ -1,0 +1,14 @@
+langchain
+langchain-classic
+langchain-community
+langchain-huggingface
+chromadb
+sentence-transformers
+ragas
+datasets
+pandas
+ollama
+streamlit
+fastapi
+uvicorn
+python-dotenv

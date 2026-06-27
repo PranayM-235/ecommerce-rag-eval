@@ -1,0 +1,142 @@
+[
+  {
+    "query_id": "Q001",
+    "question": "Can I return my laptop if I bought it 10 days ago?",
+    "ground_truth": "Yes, you can return your laptop. Our standard return window is 30 days from purchase date. The item must be unused, in original packaging, with all accessories and receipt. Refund will be processed within 5-7 business days after warehouse receives the item.",
+    "relevant_doc_ids": ["KB001", "TKT002"],
+    "category": "returns"
+  },
+  {
+    "query_id": "Q002",
+    "question": "What is the warranty period for Sony WH-1000XM5 headphones?",
+    "ground_truth": "Audio devices like the Sony WH-1000XM5 headphones come with a 12-month manufacturer warranty. This covers manufacturing defects and hardware failures under normal usage. Physical damage, liquid damage, and normal wear and tear are not covered.",
+    "relevant_doc_ids": ["KB002", "TKT003", "SONY-WH1000XM5"],
+    "category": "warranty"
+  },
+  {
+    "query_id": "Q003",
+    "question": "How do I permanently delete my account and what happens to my data?",
+    "ground_truth": "To delete your account go to Account Settings > Privacy > Delete My Account. You need to complete all active orders first and withdraw your wallet balance before deletion. Personal data is removed from active systems within 30 days. Order history is anonymised but retained for 7 years for legal compliance. Account deletion is permanent and cannot be reversed.",
+    "relevant_doc_ids": ["KB003", "TKT004"],
+    "category": "account"
+  },
+  {
+    "query_id": "Q004",
+    "question": "My UPI payment failed but money was deducted. What should I do?",
+    "ground_truth": "Failed UPI payments are auto-reversed within 2-3 business days. If not reversed after 3 business days, raise a complaint via My Account > Payment Issues with your bank transaction reference number. Our team will resolve it within 5 business days.",
+    "relevant_doc_ids": ["KB006", "TKT009"],
+    "category": "payments"
+  },
+  {
+    "query_id": "Q005",
+    "question": "Can I cancel my order after it has been shipped?",
+    "ground_truth": "No, you cannot cancel an order once it has been shipped. You must wait for delivery and then initiate a return request within 30 days if you do not want the item. A prepaid return shipping label will be provided at no cost.",
+    "relevant_doc_ids": ["KB005", "TKT015"],
+    "category": "cancellation"
+  },
+  {
+    "query_id": "Q006",
+    "question": "I received a Kindle with dead pixels out of the box. Can I get a replacement?",
+    "ground_truth": "Yes, you are eligible for a free replacement. Items received with manufacturing defects are eligible for free replacement or full refund regardless of the 30-day return window, provided the damage is reported within 48 hours of delivery. This is covered under the damaged or defective items policy.",
+    "relevant_doc_ids": ["KB001", "TKT005"],
+    "category": "returns"
+  },
+  {
+    "query_id": "Q007",
+    "question": "Is my LG washing machine still under warranty after 14 months?",
+    "ground_truth": "Yes, your LG washing machine is still under warranty. Large home appliances come with a 24-month manufacturer warranty. 14 months is within the warranty period. You can raise a warranty claim via My Orders and a technician home visit will be scheduled within 2 business days.",
+    "relevant_doc_ids": ["KB002", "TKT008"],
+    "category": "warranty"
+  },
+  {
+    "query_id": "Q008",
+    "question": "What payment methods are accepted? Can I pay with UPI?",
+    "ground_truth": "Yes, UPI is accepted. We accept Credit Cards (Visa, Mastercard, Amex, RuPay), Debit Cards, UPI (GPay, PhonePe, Paytm, BHIM), Net Banking, EMI, Buy Now Pay Later, Cash on Delivery up to Rs 10000, and Store Wallet or Gift Cards.",
+    "relevant_doc_ids": ["KB006"],
+    "category": "payments"
+  },
+  {
+    "query_id": "Q009",
+    "question": "My laptop package arrived crushed and the laptop has a dent. I already accepted delivery. What can I do?",
+    "ground_truth": "You must report shipping damage within 48 hours of delivery. Since you already accepted delivery, report the issue immediately via My Orders > Report Issue with photos. If reported within 48 hours, a replacement will be dispatched within 2-3 business days after verification.",
+    "relevant_doc_ids": ["KB004", "TKT020"],
+    "category": "shipping"
+  },
+  {
+    "query_id": "Q010",
+    "question": "Can I return a custom printed t-shirt?",
+    "ground_truth": "Personalised and custom-printed items are non-returnable as per our return policy. However, if the item has a manufacturing defect such as a misprinted design or wrong size, you are eligible for a free replacement. You will need to share photos of the defect for review.",
+    "relevant_doc_ids": ["KB001", "TKT013"],
+    "category": "returns"
+  },
+  {
+    "query_id": "Q011",
+    "question": "What is the refund timeline if I paid by credit card?",
+    "ground_truth": "If you paid by credit card, the refund will be processed to your original credit card within 5-7 business days. Alternatively, you can choose store credit which is processed within 24 hours of return approval.",
+    "relevant_doc_ids": ["KB006", "KB001"],
+    "category": "payments"
+  },
+  {
+    "query_id": "Q012",
+    "question": "My boAt earbuds stopped working after 35 days. Can I return them?",
+    "ground_truth": "You cannot return the earbuds as the 30-day return window has passed. However, accessories carry a 6-month manufacturer warranty. Since one earbud not working qualifies as a hardware defect, you can raise a warranty claim via My Orders. The product will be picked up for inspection.",
+    "relevant_doc_ids": ["KB001", "KB002", "TKT010"],
+    "category": "warranty"
+  },
+  {
+    "query_id": "Q013",
+    "question": "How many times will the courier attempt delivery if I am not home?",
+    "ground_truth": "If delivery fails because you are unavailable, the courier will attempt delivery 2 more times on subsequent days. After 3 failed attempts in total, the package is returned to the warehouse and a full refund is issued within 5-7 business days, excluding original shipping charges.",
+    "relevant_doc_ids": ["KB004"],
+    "category": "shipping"
+  },
+  {
+    "query_id": "Q014",
+    "question": "I suspended my account 85 days ago. Can I reactivate it?",
+    "ground_truth": "Yes, but you must act immediately. Suspended accounts can be reactivated within 90 days. Since 85 days have passed, you have only 5 days remaining to reactivate. Contact support immediately. After 90 days the account is permanently deleted and cannot be recovered.",
+    "relevant_doc_ids": ["KB003", "TKT018"],
+    "category": "account"
+  },
+  {
+    "query_id": "Q015",
+    "question": "Is no-cost EMI available on MacBook Air M3?",
+    "ground_truth": "Yes, No-Cost EMI is available on the MacBook Air M3 as it is priced above Rs 3000. Tenure options are 3, 6, 9, and 12 months. The bank processing fee is waived by the seller as a discount. Select the EMI option at checkout after entering your credit card details.",
+    "relevant_doc_ids": ["KB006", "TKT016"],
+    "category": "payments"
+  },
+  {
+    "query_id": "Q016",
+    "question": "What is the return policy during the festive season?",
+    "ground_truth": "During the festive season from November 1 to January 15, the return window is extended to 60 days for all eligible items, compared to the standard 30-day return window.",
+    "relevant_doc_ids": ["KB001"],
+    "category": "returns"
+  },
+  {
+    "query_id": "Q017",
+    "question": "My iPhone 15 Pro battery drains very fast after 10 months. Is this covered under warranty?",
+    "ground_truth": "Yes, battery issues are covered under warranty. Smartphones carry a 12-month manufacturer warranty and battery defects are covered if capacity drops below 80% within the warranty period. Since 10 months is within the warranty period, raise a warranty claim via My Orders for a battery diagnostic.",
+    "relevant_doc_ids": ["KB002", "TKT019"],
+    "category": "warranty"
+  },
+  {
+    "query_id": "Q018",
+    "question": "My TV order shows delivered but I never received it. What should I do?",
+    "ground_truth": "Raise a non-delivery complaint immediately via My Orders > Report Issue. Check with neighbours and building security as well. The courier partner will be contacted for proof of delivery and the investigation will be completed within 3 business days. If delivery is confirmed as not received, a full refund or replacement will be provided.",
+    "relevant_doc_ids": ["KB004", "TKT006"],
+    "category": "shipping"
+  },
+  {
+    "query_id": "Q019",
+    "question": "Can I download my personal data before deleting my account?",
+    "ground_truth": "Yes, you can export all your personal data before deletion. Go to Account Settings > Privacy > Download My Data. Processing takes 15 business days and a download link will be sent to your registered email once ready.",
+    "relevant_doc_ids": ["KB003", "TKT011"],
+    "category": "account"
+  },
+  {
+    "query_id": "Q020",
+    "question": "I placed an order 2 hours ago and want to cancel it. Is it possible?",
+    "ground_truth": "Yes, you can cancel the order if it is still in processing status. Go to My Orders > select the order > Cancel Order > choose cancellation reason > confirm. For prepaid orders, a full refund will be initiated to your original payment method within 5-7 business days or store credit within 24 hours.",
+    "relevant_doc_ids": ["KB005", "TKT007"],
+    "category": "cancellation"
+  }
+]

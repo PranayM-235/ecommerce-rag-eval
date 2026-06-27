@@ -1,0 +1,178 @@
+[
+  {
+    "ticket_id": "TKT001",
+    "category": "returns",
+    "sku": "IPH15-PRO",
+    "customer_query": "I bought an iPhone 15 Pro 25 days ago and it has a cracked screen. Can I return it?",
+    "resolution": "Physical damage (cracked screen) is not covered under the standard return policy or manufacturer warranty. The customer was advised to check if they purchased an Extended Warranty Plan that covers accidental damage. If not, they were directed to the nearest authorised service centre.",
+    "status": "resolved",
+    "date": "2026-03-10"
+  },
+  {
+    "ticket_id": "TKT002",
+    "category": "returns",
+    "sku": "LAPTOP-X1C",
+    "customer_query": "I want to return my laptop. I bought it 10 days ago and it is working fine but I changed my mind.",
+    "resolution": "Customer is within the 30-day return window. Return request approved. Prepaid return label sent to customer email. Refund will be processed within 5-7 business days after warehouse receives the item.",
+    "status": "resolved",
+    "date": "2026-03-12"
+  },
+  {
+    "ticket_id": "TKT003",
+    "category": "warranty",
+    "sku": "SONY-WH1000XM5",
+    "customer_query": "My Sony headphones stopped working after 8 months. The audio cuts out randomly. Is this covered under warranty?",
+    "resolution": "Audio devices carry a 12-month warranty. 8 months is within warranty period. The fault (random audio cutout) is classified as a hardware/manufacturing defect. Warranty claim approved. Product pickup scheduled for inspection. Resolution expected within 7-14 business days.",
+    "status": "resolved",
+    "date": "2026-02-20"
+  },
+  {
+    "ticket_id": "TKT004",
+    "category": "account",
+    "customer_query": "I want to permanently delete my account. How long will it take and what happens to my data?",
+    "resolution": "Agent explained the account deletion process. Steps: Account Settings > Privacy > Delete My Account. Active orders must be completed first. Data deleted from active systems within 30 days. Order history anonymised and retained 7 years for legal compliance. Wallet balance must be withdrawn before deletion.",
+    "status": "resolved",
+    "date": "2026-03-01"
+  },
+  {
+    "ticket_id": "TKT005",
+    "category": "returns",
+    "sku": "KINDLE-PW5",
+    "customer_query": "I received a Kindle Paperwhite but the screen has dead pixels right out of the box. I want a replacement.",
+    "resolution": "Item received with manufacturing defect (dead pixels). Customer is eligible for free replacement regardless of return window as damage was present from delivery. Replacement dispatched within 2-3 business days. Original unit pickup scheduled.",
+    "status": "resolved",
+    "date": "2026-03-15"
+  },
+  {
+    "ticket_id": "TKT006",
+    "category": "shipping",
+    "sku": "SAMSUNG-TV55",
+    "customer_query": "My TV order shows delivered but I never received it. What should I do?",
+    "resolution": "Agent raised a non-delivery complaint. Courier partner contacted for proof of delivery. Investigation to be completed within 3 business days. Customer advised to check with neighbours and building security. If delivery confirmed not received, full refund or replacement will be provided.",
+    "status": "resolved",
+    "date": "2026-03-18"
+  },
+  {
+    "ticket_id": "TKT007",
+    "category": "cancellation",
+    "sku": "NIKE-AIR-MAX",
+    "customer_query": "I placed an order 2 hours ago and want to cancel it. The order still shows processing.",
+    "resolution": "Order is still in processing status and is eligible for cancellation. Customer guided to My Orders > Cancel Order. Cancellation confirmed. Full refund initiated to original payment method (credit card) within 5-7 business days.",
+    "status": "resolved",
+    "date": "2026-03-20"
+  },
+  {
+    "ticket_id": "TKT008",
+    "category": "warranty",
+    "sku": "LG-WASHING-MACHINE",
+    "customer_query": "My LG washing machine is making a loud noise after 14 months of use. Is it still under warranty?",
+    "resolution": "Large home appliances carry a 24-month warranty. 14 months is within warranty period. Noise issue reported — classified as possible mechanical defect. Warranty claim raised. Technician home visit scheduled within 2 business days for on-site inspection.",
+    "status": "resolved",
+    "date": "2026-03-22"
+  },
+  {
+    "ticket_id": "TKT009",
+    "category": "payments",
+    "customer_query": "My UPI payment failed but money was deducted from my bank account. It has been 2 days and I have not received a refund.",
+    "resolution": "Failed UPI payments are typically auto-reversed within 2-3 business days. As it has been 2 days, customer was asked to wait 1 more business day. If not resolved, they were advised to raise a complaint with bank transaction reference via My Account > Payment Issues. Our team will resolve within 5 business days.",
+    "status": "resolved",
+    "date": "2026-03-05"
+  },
+  {
+    "ticket_id": "TKT010",
+    "category": "returns",
+    "sku": "BOAT-EARBUDS",
+    "customer_query": "I bought earbuds 35 days ago and one earbud has stopped working. Can I return or replace them?",
+    "resolution": "Customer is outside the 30-day return window (35 days). Cannot process a return. However, accessories carry a 6-month warranty. The fault (one earbud not working) qualifies as a hardware defect. Warranty claim raised instead. Product pickup scheduled.",
+    "status": "resolved",
+    "date": "2026-03-08"
+  },
+  {
+    "ticket_id": "TKT011",
+    "category": "account",
+    "customer_query": "I want to download all my personal data before I delete my account. Is this possible?",
+    "resolution": "Yes, customers can export their data before deletion. Go to Account Settings > Privacy > Download My Data. Processing time is 15 business days. Once the data export is ready, a download link will be sent to the registered email. After downloading, customer can proceed with account deletion.",
+    "status": "resolved",
+    "date": "2026-02-28"
+  },
+  {
+    "ticket_id": "TKT012",
+    "category": "shipping",
+    "sku": "APPLE-WATCH-S9",
+    "customer_query": "I need to change my delivery address. My order was placed yesterday and I am not sure if it has shipped yet.",
+    "resolution": "Agent checked order status — item not yet shipped. Address change applied successfully. Customer informed that address changes are only possible before shipment. If already shipped, address cannot be modified.",
+    "status": "resolved",
+    "date": "2026-03-25"
+  },
+  {
+    "ticket_id": "TKT013",
+    "category": "returns",
+    "sku": "CUSTOM-TSHIRT",
+    "customer_query": "I want to return a custom printed t-shirt I ordered. The print quality is bad.",
+    "resolution": "Personalised and custom-printed items are non-returnable as per policy. However, if the item has a manufacturing defect (misprinted design per the approved template), the customer is eligible for a free replacement. Customer was asked to share photos of the defect for review.",
+    "status": "pending",
+    "date": "2026-04-01"
+  },
+  {
+    "ticket_id": "TKT014",
+    "category": "warranty",
+    "sku": "DELL-MONITOR-27",
+    "customer_query": "My Dell monitor has a flickering issue after 5 months. Is this covered?",
+    "resolution": "Monitors fall under Accessories and Peripherals with a 6-month warranty. 5 months is within warranty. Screen flickering is classified as a display defect. Warranty claim approved. Product pickup for inspection scheduled.",
+    "status": "resolved",
+    "date": "2026-03-28"
+  },
+  {
+    "ticket_id": "TKT015",
+    "category": "cancellation",
+    "sku": "SAMSUNG-GALAXY-S24",
+    "customer_query": "My order has already been shipped. Can I still cancel it?",
+    "resolution": "Once an order is shipped, it cannot be cancelled. Customer was advised to wait for delivery and then initiate a return request within 30 days if they do not want the item. Return shipping label will be provided at no cost.",
+    "status": "resolved",
+    "date": "2026-03-30"
+  },
+  {
+    "ticket_id": "TKT016",
+    "category": "payments",
+    "sku": "MACBOOK-AIR-M3",
+    "customer_query": "I want to buy a MacBook on no-cost EMI. What are the options available?",
+    "resolution": "No-Cost EMI is available on products above Rs 3000. MacBook is eligible. Tenure options are 3, 6, 9, and 12 months. The bank processing fee is waived by the seller as a discount. Customer can select EMI option at checkout after entering card details.",
+    "status": "resolved",
+    "date": "2026-04-02"
+  },
+  {
+    "ticket_id": "TKT017",
+    "category": "returns",
+    "sku": "PERFUME-SET",
+    "customer_query": "I received a perfume set as a gift. I already opened it. Can I return it?",
+    "resolution": "Items must be unused and in original packaging to be eligible for return. Since the perfume set has been opened, it does not meet the return criteria. Return request rejected. Opened personal care and beauty products cannot be returned for hygiene reasons.",
+    "status": "resolved",
+    "date": "2026-03-14"
+  },
+  {
+    "ticket_id": "TKT018",
+    "category": "account",
+    "customer_query": "I suspended my account 85 days ago. Can I still reactivate it?",
+    "resolution": "Suspended accounts can be reactivated within 90 days. As 85 days have passed, there are 5 days remaining. Customer was guided to contact support immediately to reactivate. After 90 days, the account is permanently deleted and cannot be recovered.",
+    "status": "resolved",
+    "date": "2026-03-19"
+  },
+  {
+    "ticket_id": "TKT019",
+    "category": "warranty",
+    "sku": "IPH15-PRO",
+    "customer_query": "My iPhone 15 Pro battery drains very fast after 10 months. Is battery covered under warranty?",
+    "resolution": "Smartphones carry a 12-month warranty. Battery defects are covered if capacity drops below 80% within the warranty period. 10 months is within warranty. Customer advised to raise warranty claim via My Orders. Battery diagnostic will be performed.",
+    "status": "resolved",
+    "date": "2026-03-26"
+  },
+  {
+    "ticket_id": "TKT020",
+    "category": "shipping",
+    "sku": "LAPTOP-X1C",
+    "customer_query": "My laptop package arrived and the box was crushed. I accepted delivery without checking. Now I see the laptop has a dent. What can I do?",
+    "resolution": "Shipping damage must be reported within 48 hours of delivery. Customer reported within 24 hours so they are within the window. Replacement request raised. Damaged unit pickup scheduled. Replacement dispatched within 2-3 business days after verification.",
+    "status": "resolved",
+    "date": "2026-03-29"
+  }
+]
